@@ -15,9 +15,9 @@ Images generated with following parameters:
 
 **Done:**
 - photo of a person 
+- photo of a man
 
 **TODO:**
-- photo of a man
 - photo of a woman (in progress)
  
  
