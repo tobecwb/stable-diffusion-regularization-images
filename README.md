@@ -2,7 +2,9 @@
 
 ---
 
-**Stable Diffusion Regularization Images in 768px using 2.1 checkpoint**
+**Stable Diffusion Regularization Images in 768px using Stable Diffusion 2.1 checkpoint**
+
+Quantity of images: 5k per class
 
 
 Images generated with following parameters:
@@ -12,7 +14,7 @@ Images generated with following parameters:
 - Prompt: "photo of a {}"
 
 **Done:**
-- photo fo a person 
+- photo of a person 
 
 **TODO:**
 - photo of a man (in progress)
