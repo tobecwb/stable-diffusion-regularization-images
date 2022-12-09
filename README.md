@@ -17,6 +17,8 @@ Images generated with following parameters:
 - photo of a person 
 
 **TODO:**
-- photo of a man (in progress)
-- photo of a woman
-
+- photo of a man
+- photo of a woman (in progress)
+ 
+ 
+suggestions? open a issue
