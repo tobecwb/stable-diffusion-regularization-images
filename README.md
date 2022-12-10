@@ -16,9 +16,8 @@ Images generated with following parameters:
 **Done:**
 - photo of a person 
 - photo of a man
+- photo of a woman
 
-**TODO:**
-- photo of a woman (in progress)
  
  
 suggestions? open a issue
