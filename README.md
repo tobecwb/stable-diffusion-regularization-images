@@ -2,22 +2,29 @@
 
 ---
 
-**Stable Diffusion Regularization Images in 768px using Stable Diffusion 2.1 checkpoint**
+**Stable Diffusion Regularization Images**
+
+All classes in Stable Diffusion 1.5 and 2.1 checkpoint
 
 Quantity of images: 5k per class
-
 
 Images generated with following parameters:
 - Classification CFG Scale: 7,5
 - Steps: 50
-- Resolution: 768px
+- Scheduler: ddim
+- Resolution: 768px (2.1) and 568px (1.5)
 - Prompt: "photo of a {}"
 
 **Done:**
-- photo of a person 
-- photo of a man
-- photo of a woman
+- photo of a person (2.1)
+- photo of a man (2.1)
+- photo of a woman (2.1)
 
+
+**Todo:**
+- photo of a person (1.5) - in progress
+- photo of a man (1.5)
+- photo of a woman (1.5)
  
  
 suggestions? open a issue
