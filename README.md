@@ -18,13 +18,13 @@ Images generated with following parameters:
 **Done:**
 - photo of a person (1.5);
 - photo of a person (2.1);
+- photo of a man (1.5);
 - photo of a man (2.1);
 - photo of a woman (2.1).
 
 
 **Todo:**
-- photo of a man (1.5) - in progress;
-- photo of a woman (1.5);
+- photo of a woman (1.5) - in progress;
 - maybe use negative prompt on images generated in SD 2.1 (checking if this will affect the final result).
  
 suggestions? open a issue
