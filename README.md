@@ -51,7 +51,7 @@ The image editing was primarily done in Photoshop, using the **Neural Filter**, 
 
 Other images were enhanced using GFPGAN 1.3 and/or 1.4, along with other ESRGAN models in conjunction with Photoshop and additional masks.
 
-After editing more than 5000 images manually, I ended up optimizing the workflow by generating a new YOLOv8 model (to be released) to segment the main areas of the face (eyebrows, eyes, nose and mouth), automatically generating masks for the rest of the images (but still required manual treatments on several images).
+After editing more than 5000 images manually, I ended up optimizing the workflow by generating a new YOLOv8 model (https://github.com/tobecwb/facial-features-yolo8x-seg) to segment the main areas of the face (eyebrows, eyes, nose and mouth), automatically generating masks for the rest of the images (but still required manual treatments on several images).
 
 Some images had more than 5 different versions, and through masks, I selected different regions from each image until reaching the final result.
 
