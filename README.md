@@ -22,3 +22,9 @@ For each class (man and woman), a total of 5000 images were generated.
 ## How the images are generated:
 
 All images were generated using only the base Stable Diffusion checkpoints (1.5, 2.1 and SDXL), with simple prompts such as `photo of a woman`, `a woman` or simply `woman`.
+
+## Other related projects:
+
+- https://github.com/tobecwb/stable-diffusion-face-dataset
+- https://github.com/tobecwb/facial-features-yolo8x-seg
+- https://github.com/tobecwb/stable-diffusion-regularization-images
